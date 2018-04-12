@@ -54,7 +54,7 @@ public class PuzzleActivity extends AppCompatActivity {
         container.post(new Runnable() {
             @Override
             public void run() {
-                Bitmap bitmap = BitmapFactory.decodeResource(getResources(),R.drawable.hard);
+                Bitmap bitmap = BitmapFactory.decodeResource(getResources(),R.drawable.default_image);
                 boardView.initialize(bitmap);
             }
         });
