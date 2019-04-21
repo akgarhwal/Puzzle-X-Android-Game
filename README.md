@@ -1,6 +1,12 @@
 # Puzzle-X-Android-Game
 
 Puzzle X is a android game application in which user can click a picture from camera and shuffle it and try to solve shuffled puzzle.
+
+  • It is a mystic square puzzle in which user has to rearrange scrambled image to
+    obtain original image.<br>
+  • Puzzle-Solveris implemented using Priority Queue and A*-Algorithm with
+    Manhattan distance.<br>
+  • High-Score is set based on minimum number of moves.
 <br>
 <ul>
 <li>Implemented in Android studio 1.3 using API 22. </li>
@@ -12,3 +18,5 @@ Puzzle X is a android game application in which user can click a picture from ca
 <li> Puzzle-Solver is implemented using Priority Queue and A*-Algorithm with
 Manhattan distance.</li>
 </ul>
+
+Screenshot of Applications:
