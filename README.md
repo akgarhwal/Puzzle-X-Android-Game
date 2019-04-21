@@ -20,6 +20,6 @@ Manhattan distance.</li>
 </ul>
 
 Screenshot of Applications:
-<div style="width:400px !important;height:600px;">
-  <img src="https://github.com/akgarhwal/Puzzle-X-Android-Game/blob/master/app/src/main/res/drawable/app-gif.gif"></img>   
+<div>
+  <img src="https://github.com/akgarhwal/Puzzle-X-Android-Game/blob/master/app/src/main/res/drawable/app-gif.gif" width="360" height="550"></img>   
 </div>
