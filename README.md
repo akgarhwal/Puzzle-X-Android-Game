@@ -20,3 +20,6 @@ Manhattan distance.</li>
 </ul>
 
 Screenshot of Applications:
+<p>
+  <img src="https://github.com/akgarhwal/Puzzle-X-Android-Game/blob/master/app/src/main/res/drawable/app-gif.gif"></img>   
+</p>
